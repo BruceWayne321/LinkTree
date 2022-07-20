@@ -1,0 +1,74 @@
+
+body{
+	margin-top: 40px;
+	background-image: url("images/background.jpg");
+	/*background: #FFF9CA;*/
+	background-attachment: fixed;
+	
+	/*
+	background-size: cover;
+	*/
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto; 
+	height: 150px;
+	border-radius: 180px;
+}
+h3 {
+	margin-top: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	display: block;
+	text-align: center;
+}
+
+h3 span {
+	background-color: #90C8AC;/*#B2A4FF;*/
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 7px;
+}
+hr {
+	width: 250px;
+}
+/*
+main {
+	display: block;
+	margin-left: auto;
+	margin-right: auto; 
+	
+}
+*/
+a {
+	text-decoration: none;
+}
+ul {
+	padding-left: 0;
+	text-align: center;
+	list-style: none; /*inside to get the bullet along with the text*/
+}
+li {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	/*
+	margin-top: 10px;
+	margin-bottom: 10px;
+	*/
+}
+main a {
+	background-color: #B2A4FF;
+	border-radius: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+main a:hover {
+	background-color: #C9BBCF;
+	
+}
